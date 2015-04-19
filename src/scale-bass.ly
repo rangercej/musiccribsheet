@@ -17,9 +17,9 @@
 		\override Score.KeySignature.stencil = ##f
 		\override Score.TimeSignature.stencil = ##f
 	
-		c, d, e, f, g, a, b, c d e f g a b c' d' e'
+		b,, c, d, e, f, g, a, b, c d e f g a b c' d' e' f'
 	}
 	\addlyrics {
-		C D E F G A B C D E F G A B C D E
+		B C D E F G A B C D E F G A B Middle-C D E F
 	}
 >>

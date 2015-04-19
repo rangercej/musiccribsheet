@@ -20,6 +20,6 @@
 		g4 a b c' d' e' f' g' a' b' c'' d'' e'' f'' g'' a'' b'' c''' d'''
 	}
 	\addlyrics {
-		G A B C D E F G A B C D E F G A B C D
+		G A B Middle-C D E F G A B C D E F G A B C D
 	}
 >>
